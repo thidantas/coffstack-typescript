@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "moduleDetection": "force",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "strictNullChecks": true,
+    "target": "ES2017",
+    "lib": ["ES2017", "DOM"]
+  }
+}
